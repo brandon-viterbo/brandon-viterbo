@@ -1,5 +1,13 @@
-### Hi there 👋
+## About Me
+I've really been enjoying fixing the problems I have with teaching myself guitar using JavaScript, Python, and Kotlin. The clarity of the latter makes me wish
+I learned it alongside Java in my academic career. Currently looking for a role in web development where I can expand the impact of my code beyond the confines of
+my musical education. If you're hiring, feel free to reach out!
 
+## Addendum
+- Besides music, I'm a passionate reader. Currently reading *Structure and Intrepretation of Computer Programs* by Harold Abelson, and Gerald and Julie Sussman, and *The Life and Opinions of Tristram Shandy* by
+Laurence Sterne.
+- Pourover is my go to coffee brewing method.
+- Getting a cat is my second priority right now, just behind (just!) getting a job.
 <!--
 **brandon-viterbo/brandon-viterbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
