@@ -4,8 +4,9 @@ I learned it alongside Java in my academic career. Currently looking for a role 
 my musical education. If you're hiring, feel free to reach out!
 
 ## Addendum
-- Besides music, I'm a passionate reader. Currently reading *Structure and Intrepretation of Computer Programs* by Harold Abelson, and Gerald and Julie Sussman, and *The Life and Opinions of Tristram Shandy* by
+- Currently reading *Structure and Intrepretation of Computer Programs* by Harold Abelson, and Gerald and Julie Sussman, and *The Life and Opinions of Tristram Shandy* by
 Laurence Sterne.
+- Currently listening through the discographies of John Coltrane, Anthony Braxton, and Mogwai.
 - Pourover is my go to coffee brewing method.
 - Getting a cat is my second priority right now, just behind (just!) getting a job.
 <!--
