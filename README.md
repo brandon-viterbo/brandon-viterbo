@@ -1,7 +1,6 @@
 # About Me
-#### I've really been enjoying fixing the problems I have with teaching myself guitar using JavaScript, Python, and Kotlin. The clarity of the latter makes me wish
-#### I learned it alongside Java in my academic career. Currently looking for a role in web development where I can expand the impact of my code beyond the confines of
-#### my musical education. If you're hiring, feel free to reach out!
+#### I've really been enjoying fixing the problems I have with teaching myself guitar using JavaScript, Python, and Kotlin. The clarity of the latter makes me wish I learned it alongside Java in my academic career. 
+#### Currently looking for a role in web development where I can expand the impact of my code beyond the confines of my musical education. If you're hiring, feel free to reach out!
 
 ## Addendum
 - Currently reading *Structure and Intrepretation of Computer Programs* by Harold Abelson, and Gerald and Julie Sussman, and *The Life and Opinions of Tristram Shandy* by
